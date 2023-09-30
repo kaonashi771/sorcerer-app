@@ -5,6 +5,11 @@ The following was discovered as part of building this project:
 
 # Getting Started
 
+* Run ./mvnw spring-boot:run
+* Navigate to localhost:8080
+* Click New Person to add a Person, or click any item in grid to edit person data. The average number of victims text will be updated automatically.
+* ![Initial Screen](doc/MainPage.png)
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
