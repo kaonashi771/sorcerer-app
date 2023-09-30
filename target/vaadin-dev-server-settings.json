@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/gustiandika/eclipse-workspace/sorcerer-app/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/gustiandika/eclipse-workspace/sorcerer-app/./frontend/generated/jar-resources",
+  "staticOutput": "/Users/gustiandika/eclipse-workspace/sorcerer-app/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/gustiandika/eclipse-workspace/sorcerer-app/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/gustiandika/eclipse-workspace/sorcerer-app/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/gustiandika/eclipse-workspace/sorcerer-app/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/gustiandika/eclipse-workspace/sorcerer-app/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/Users/gustiandika/eclipse-workspace/sorcerer-app/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/gustiandika/eclipse-workspace/sorcerer-app/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
