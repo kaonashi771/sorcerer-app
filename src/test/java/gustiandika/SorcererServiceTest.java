@@ -13,7 +13,7 @@ public class SorcererServiceTest {
 	private SorcererService sorcerer;
 	
 	@Test
-	public void testNumberOfVictim() {
+	public void testNumberOfVictimByYear() {
 		assertThat(sorcerer.numberOfVictim(1)).isEqualTo(1);
 		assertThat(sorcerer.numberOfVictim(2)).isEqualTo(2);
 		assertThat(sorcerer.numberOfVictim(3)).isEqualTo(4);
