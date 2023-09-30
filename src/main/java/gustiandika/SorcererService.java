@@ -29,7 +29,7 @@ public class SorcererService {
 	}
 
 	/**
-	 * Get average number of victim between two person year of birth.
+	 * Get average number of victim based on each person year of birth.
 	 * 
 	 * return -1 if person year of birth is > year of death
 	 * 
